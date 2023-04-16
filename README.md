@@ -1,2 +1,3 @@
 # Catering-Recommendation-System
-MySQL, Java, Java Database Connectivity, Android Studio
+MySQL, Python, Java, Java Database Connectivity, Android Studio
+Utilized Collaborative filtering recommendation algorithm
